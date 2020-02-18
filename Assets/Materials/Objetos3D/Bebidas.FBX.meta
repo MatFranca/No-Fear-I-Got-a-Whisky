@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: c5f4df5ed855f514f98906f764129665
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Amare
+    100002: Baileys
+    100004: //RootNode
+    100006: Becherovka
+    100008: Beefeater
+    100010: cahlua
+    100012: Camera01
+    100014: Camera01.Target
+    100016: chivasRegal
+    100018: cointreau
+    100020: Curacao
+    100022: Havana_Club
+    100024: Jack_Daniel`s
+    100026: Jagermeister
+    100028: Jameson
+    100030: Line01
+    100032: Malibu
+    100034: martel
+    100036: Olmeca
+    100038: pernod
+    100040: Sambuka
+    100042: Spot01
+    100044: Spot01.Target
+    100046: Spot02
+    100048: Spot02.Target
+    400000: Amare
+    400002: Baileys
+    400004: //RootNode
+    400006: Becherovka
+    400008: Beefeater
+    400010: cahlua
+    400012: Camera01
+    400014: Camera01.Target
+    400016: chivasRegal
+    400018: cointreau
+    400020: Curacao
+    400022: Havana_Club
+    400024: Jack_Daniel`s
+    400026: Jagermeister
+    400028: Jameson
+    400030: Line01
+    400032: Malibu
+    400034: martel
+    400036: Olmeca
+    400038: pernod
+    400040: Sambuka
+    400042: Spot01
+    400044: Spot01.Target
+    400046: Spot02
+    400048: Spot02.Target
+    2300000: Amare
+    2300002: Baileys
+    2300004: Becherovka
+    2300006: Beefeater
+    2300008: cahlua
+    2300010: chivasRegal
+    2300012: cointreau
+    2300014: Curacao
+    2300016: Havana_Club
+    2300018: Jack_Daniel`s
+    2300020: Jagermeister
+    2300022: Jameson
+    2300024: Line01
+    2300026: Malibu
+    2300028: martel
+    2300030: Olmeca
+    2300032: pernod
+    2300034: Sambuka
+    3300000: Amare
+    3300002: Baileys
+    3300004: Becherovka
+    3300006: Beefeater
+    3300008: cahlua
+    3300010: chivasRegal
+    3300012: cointreau
+    3300014: Curacao
+    3300016: Havana_Club
+    3300018: Jack_Daniel`s
+    3300020: Jagermeister
+    3300022: Jameson
+    3300024: Line01
+    3300026: Malibu
+    3300028: martel
+    3300030: Olmeca
+    3300032: pernod
+    3300034: Sambuka
+    4300000: Baileys
+    4300002: Jack_Daniel`s
+    4300004: Jagermeister
+    4300006: Beefeater
+    4300008: Jameson
+    4300010: cointreau
+    4300012: Becherovka
+    4300014: martel
+    4300016: chivasRegal
+    4300018: cahlua
+    4300020: Malibu
+    4300022: Curacao
+    4300024: Olmeca
+    4300026: Amare
+    4300028: pernod
+    4300030: Sambuka
+    4300032: Havana_Club
+    4300034: Line01
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 60381d76c7bf4554bb4b42ccfd5752fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 67141a8439835994093e5eb6c1f0e198, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 17 - Defaultg
+    second: {fileID: 2100000, guid: 8d8a7af4d5b31d94ba3133231918d5ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bech
+    second: {fileID: 2100000, guid: 5d9c0a9863f54104c880f92e2df1df99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bech_C
+    second: {fileID: 2100000, guid: 15a0c600ff7640848b719d5724fe6b59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bech_L
+    second: {fileID: 2100000, guid: ddbcf199066860c499d808ff4e495d3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bftr
+    second: {fileID: 2100000, guid: 711cb29a59ee80142b3ea698ce208071, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bls
+    second: {fileID: 2100000, guid: 5a249050a1346c64fb0b33d73076846c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bls_C
+    second: {fileID: 2100000, guid: 28b6d2acf39fe764e99254dafebc5fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CrcC
+    second: {fileID: 2100000, guid: 67141a8439835994093e5eb6c1f0e198, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CurB
+    second: {fileID: 2100000, guid: 5a3a0d6fa836bcf44bd43ff7b93d09e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gin
+    second: {fileID: 2100000, guid: 4d5c03b35f5bdcf4ba935c41403dae44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HC
+    second: {fileID: 2100000, guid: 603d5ae5ab1e7be459ec689405fcccf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: J_whisk
+    second: {fileID: 2100000, guid: bc6fafe6fd747f7459e60793a84a7451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jameson
+    second: {fileID: 2100000, guid: 8407c2f2c9d5f804b998c4cad4116e15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jms_C
+    second: {fileID: 2100000, guid: 5c3f03de078df294b916cc93bc387df5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #106'
+    second: {fileID: 2100000, guid: 1d6cf220ecdf01e478f6cd5f7b9cbb7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #132'
+    second: {fileID: 2100000, guid: 20466c48f3d99e2449b0745953066735, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RUM
+    second: {fileID: 2100000, guid: 702c51bf0336fb242a6242f5eb8a45ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: absolut01
+    second: {fileID: 2100000, guid: 670399c657ec09c409d459beb6ae869f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: absolut02
+    second: {fileID: 2100000, guid: 898459e877fbe47428b949c019944044, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bls_L
+    second: {fileID: 2100000, guid: 3544928f849edb44fadb681e648d6637, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cahlua
+    second: {fileID: 2100000, guid: a55bfe95b9a1c7544af4159f2e5da7e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chiv_cD
+    second: {fileID: 2100000, guid: dafa61cb56a160f4f9f738ef976a4a77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chl
+    second: {fileID: 2100000, guid: ad39c98bfd71eaf4386e415660ccfa38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chl_S
+    second: {fileID: 2100000, guid: ad39c98bfd71eaf4386e415660ccfa38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chl_c
+    second: {fileID: 2100000, guid: ae3f59d16f777664c88ab3c2ec3e4943, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cntr
+    second: {fileID: 2100000, guid: 0e3e0eff839b8e444a1acdeab2567b65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cntr02
+    second: {fileID: 2100000, guid: ded7b18cb09df4b429ee5c8b3ce3bf76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cntr_c
+    second: {fileID: 2100000, guid: f0b8709723d120244ad6261d3b0c857c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cntr_ribbon
+    second: {fileID: 2100000, guid: 879d9579014a84f459c76b6164b5b547, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cntr_seal
+    second: {fileID: 2100000, guid: 0e3e0eff839b8e444a1acdeab2567b65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cognac
+    second: {fileID: 2100000, guid: 85b1ff4a7799f414d923370c04dfb891, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cvs_lb
+    second: {fileID: 2100000, guid: 310b33c335622ca43a53e86b0523f1ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jdC
+    second: {fileID: 2100000, guid: 6341fd88af17ec948acf4627a6ad4a6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jgrm_cap
+    second: {fileID: 2100000, guid: 29347d03d6e6c5e448066973487acc9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jgrms
+    second: {fileID: 2100000, guid: 28aa3ffcb873a7241a1e8cdb88ec2f5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: martelC
+    second: {fileID: 2100000, guid: be6095fc03faf85498e86b75c980d040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: martl
+    second: {fileID: 2100000, guid: 34946d88125d1af4b807acf665612117, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mlb
+    second: {fileID: 2100000, guid: 3dfc12ddd7fbccf43a0ef49858ff2b6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mlb_c
+    second: {fileID: 2100000, guid: 331e687cce933734384d5d3c3823f0f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: olm
+    second: {fileID: 2100000, guid: 7a1e9287d0f518a4e9338c9e381ac428, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: olmC
+    second: {fileID: 2100000, guid: 7a1e9287d0f518a4e9338c9e381ac428, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pernod
+    second: {fileID: 2100000, guid: 916df22aaefb556418afc3d381af276c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: prnC
+    second: {fileID: 2100000, guid: 3382f458015108148b779821ddc56854, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: prnC1
+    second: {fileID: 2100000, guid: 6ec3facc7f78d554a9c6bd1e35664e29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rmz
+    second: {fileID: 2100000, guid: 09b22cc872d0dd241af7d403e261467f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rumC
+    second: {fileID: 2100000, guid: b80d3a3e4fcbacf4e98903eae393afc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rumCC
+    second: {fileID: 2100000, guid: dc91770a2d279d14f8f1a0d9d9d37e33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: smb_c
+    second: {fileID: 2100000, guid: d69f293b87bf0304786645aeaefcee9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: smbk
+    second: {fileID: 2100000, guid: 20466c48f3d99e2449b0745953066735, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teq
+    second: {fileID: 2100000, guid: b3dc05dfb5e04a74d94f9a2323ae7af3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: whiskey
+    second: {fileID: 2100000, guid: 9d8ef166e0d425b429949c78863f302d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: whiskeyJD
+    second: {fileID: 2100000, guid: 37c2e0faff67e1b4f832bc4c97834f11, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

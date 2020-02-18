@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 38fc5fb8d620d6f4d83ef374a92bb13c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Almofadas
+    100002: Box003
+    100004: Group16457
+    100006: Group16458
+    100008: Group16460
+    100010: Group32913
+    100012: Group32915
+    100014: Group32916
+    100016: Group32917
+    100018: Group32918
+    100020: Group32920
+    100022: Group32921
+    100024: //RootNode
+    100026: Sofa_06
+    100028: sub01
+    100030: sub01_MeshPart0
+    100032: sub01_MeshPart1
+    100034: sub02
+    100036: sub02_MeshPart0
+    100038: sub02_MeshPart1
+    100040: sub03
+    400000: Almofadas
+    400002: Box003
+    400004: Group16457
+    400006: Group16458
+    400008: Group16460
+    400010: Group32913
+    400012: Group32915
+    400014: Group32916
+    400016: Group32917
+    400018: Group32918
+    400020: Group32920
+    400022: Group32921
+    400024: //RootNode
+    400026: Sofa_06
+    400028: sub01
+    400030: sub01_MeshPart0
+    400032: sub01_MeshPart1
+    400034: sub02
+    400036: sub02_MeshPart0
+    400038: sub02_MeshPart1
+    400040: sub03
+    2300000: Almofadas
+    2300002: Box003
+    2300004: Group16457
+    2300006: Group16458
+    2300008: Group16460
+    2300010: Group32913
+    2300012: Group32915
+    2300014: Group32916
+    2300016: Group32917
+    2300018: Group32918
+    2300020: Group32920
+    2300022: Group32921
+    2300024: sub01_MeshPart0
+    2300026: sub01_MeshPart1
+    2300028: sub02_MeshPart0
+    2300030: sub02_MeshPart1
+    2300032: sub03
+    3300000: Almofadas
+    3300002: Box003
+    3300004: Group16457
+    3300006: Group16458
+    3300008: Group16460
+    3300010: Group32913
+    3300012: Group32915
+    3300014: Group32916
+    3300016: Group32917
+    3300018: Group32918
+    3300020: Group32920
+    3300022: Group32921
+    3300024: sub01_MeshPart0
+    3300026: sub01_MeshPart1
+    3300028: sub02_MeshPart0
+    3300030: sub02_MeshPart1
+    3300032: sub03
+    4300000: Box003
+    4300002: sub01_MeshPart0
+    4300004: sub01_MeshPart1
+    4300006: sub02_MeshPart0
+    4300008: sub02_MeshPart1
+    4300010: sub03
+    4300012: Group32913
+    4300014: Group32915
+    4300016: Group32916
+    4300018: Group32917
+    4300020: Group32918
+    4300022: Group32920
+    4300024: Group32921
+    4300026: Group16457
+    4300028: Group16458
+    4300030: Group16460
+    4300032: Almofadas
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default
+    second: {fileID: 2100000, guid: 30e9eaffb4af165428d0dd1d91ea7462, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_000000000
+    second: {fileID: 2100000, guid: 684f312e13c3ec041be14a8d57b3530e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 8d90fd0a45c11fc41a5c83565f570771
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 03 Desig10
+    100002: 03 Desig11
+    100004: 03 Desig12
+    100006: 03 Desig13
+    100008: 03 Desig14
+    100010: 03 Desig15
+    100012: 03 Desig16
+    100014: 03 Desig17
+    100016: 03 Desig18
+    100018: 03 Desig19
+    100020: 03 Desig20
+    100022: 03 Desig21
+    100024: 03 Desig22
+    100026: 03 Desig23
+    100028: '03 Design '
+    100030: 03 Design0
+    100032: 03 Design1
+    100034: 03 Design2
+    100036: 03 Design3
+    100038: 03 Design4
+    100040: 03 Design5
+    100042: 03 Design6
+    100044: 03 Design7
+    100046: 03 Design8
+    100048: 03 Design9
+    100050: Camera001
+    100052: Camera001.target
+    100054: Group001
+    100056: //RootNode
+    400000: 03 Desig10
+    400002: 03 Desig11
+    400004: 03 Desig12
+    400006: 03 Desig13
+    400008: 03 Desig14
+    400010: 03 Desig15
+    400012: 03 Desig16
+    400014: 03 Desig17
+    400016: 03 Desig18
+    400018: 03 Desig19
+    400020: 03 Desig20
+    400022: 03 Desig21
+    400024: 03 Desig22
+    400026: 03 Desig23
+    400028: '03 Design '
+    400030: 03 Design0
+    400032: 03 Design1
+    400034: 03 Design2
+    400036: 03 Design3
+    400038: 03 Design4
+    400040: 03 Design5
+    400042: 03 Design6
+    400044: 03 Design7
+    400046: 03 Design8
+    400048: 03 Design9
+    400050: Camera001
+    400052: Camera001.target
+    400054: Group001
+    400056: //RootNode
+    2300000: 03 Desig10
+    2300002: 03 Desig11
+    2300004: 03 Desig12
+    2300006: 03 Desig13
+    2300008: 03 Desig14
+    2300010: 03 Desig15
+    2300012: 03 Desig16
+    2300014: 03 Desig17
+    2300016: 03 Desig18
+    2300018: 03 Desig19
+    2300020: 03 Desig20
+    2300022: 03 Desig21
+    2300024: 03 Desig22
+    2300026: 03 Desig23
+    2300028: '03 Design '
+    2300030: 03 Design0
+    2300032: 03 Design1
+    2300034: 03 Design2
+    2300036: 03 Design3
+    2300038: 03 Design4
+    2300040: 03 Design5
+    2300042: 03 Design6
+    2300044: 03 Design7
+    2300046: 03 Design8
+    2300048: 03 Design9
+    3300000: 03 Desig10
+    3300002: 03 Desig11
+    3300004: 03 Desig12
+    3300006: 03 Desig13
+    3300008: 03 Desig14
+    3300010: 03 Desig15
+    3300012: 03 Desig16
+    3300014: 03 Desig17
+    3300016: 03 Desig18
+    3300018: 03 Desig19
+    3300020: 03 Desig20
+    3300022: 03 Desig21
+    3300024: 03 Desig22
+    3300026: 03 Desig23
+    3300028: '03 Design '
+    3300030: 03 Design0
+    3300032: 03 Design1
+    3300034: 03 Design2
+    3300036: 03 Design3
+    3300038: 03 Design4
+    3300040: 03 Design5
+    3300042: 03 Design6
+    3300044: 03 Design7
+    3300046: 03 Design8
+    3300048: 03 Design9
+    4300000: '03 Design '
+    4300002: 03 Design0
+    4300004: 03 Design1
+    4300006: 03 Design2
+    4300008: 03 Design3
+    4300010: 03 Design4
+    4300012: 03 Design5
+    4300014: 03 Design6
+    4300016: 03 Design7
+    4300018: 03 Design8
+    4300020: 03 Design9
+    4300022: 03 Desig10
+    4300024: 03 Desig11
+    4300026: 03 Desig12
+    4300028: 03 Desig13
+    4300030: 03 Desig14
+    4300032: 03 Desig15
+    4300034: 03 Desig16
+    4300036: 03 Desig17
+    4300038: 03 Desig18
+    4300040: 03 Desig19
+    4300042: 03 Desig20
+    4300044: 03 Desig21
+    4300046: 03 Desig22
+    4300048: 03 Desig23
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
